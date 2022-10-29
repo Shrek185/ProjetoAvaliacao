@@ -13,7 +13,7 @@ public class Principal {
 		
 		System.out.println("Media Aritimetica do Luigi: " + luigi.mediaAritmetica());
 		System.out.println("Media Ponderada do Luigi: " + luigi.mediaPonderada());
-		System.out.println();
+		System.out.println("_____________________________");
 		System.out.println("Media Aritimetica do Mario: " + mario.mediaAritmetica());
 		System.out.println("Media Ponderada do Mario: " + mario.mediaPonderada());
 
